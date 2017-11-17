@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "hello-world",
   "version": "1.0.0",
   "description": "simple begining ",
@@ -10,5 +11,16 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.16.2"
+=======
+  "name": "angularjs-seed",
+  "description": "A starter project for AngularJS",
+  "repository": "https://github.com/angular/angular-seed",
+  "devDependencies": {
+    "phantomjs" : "~1.9",
+    "karma" : "~0.10",
+    "karma-junit-reporter" : "~0.1",
+    "karma-jasmine" : "~0.1",
+    "protractor" : "~0.17.0"
+>>>>>>> 3119511877e30fd699bbc413ec25b94a299e870e
   }
 }
